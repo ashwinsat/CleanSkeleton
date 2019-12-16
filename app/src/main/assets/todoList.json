@@ -1,0 +1,32 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Attend meeting",
+      "content": "Attend scrum meeting at 10",
+      "status": 0,
+      "type": 0
+    },
+    {
+      "id": "2",
+      "title": "Attend secret santa clause meeting",
+      "content": "Attend secret santa clause meeting at 11",
+      "status": 0,
+      "type": 0
+    },
+    {
+      "id": "3",
+      "title": "Follow up on customer bugs",
+      "content": "Follow up on the sync issues",
+      "status": 0,
+      "type": 0
+    },
+    {
+      "id": "4",
+      "title": "Update documentation for library building",
+      "content": "Attend secret santa clause meeting at 11",
+      "status": 1,
+      "type": 0
+    }
+  ]
+}
